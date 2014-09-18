@@ -3,8 +3,8 @@ title: "2014-09-18-HW1-Jialin-li"
 author: "jl4176"
 date: "September 18, 2014"
 output: html_document
-published:false
-tags:hw1
+published: false
+tags: hw1
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
